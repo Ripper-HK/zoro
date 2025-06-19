@@ -1,7 +1,8 @@
 # Prerequisites
 #
+####
 - JDK 17 
-- Maven 3.9 
+- Maven 4.5
 - MySQL 8
 
 # Technologies 
